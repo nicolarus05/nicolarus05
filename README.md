@@ -30,7 +30,6 @@
 <br>
 
 ### 🛠️ Arsenal Tecnológico
-He organizado tus herramientas para que los reclutadores vean tu versatilidad de un vistazo [web:35].
 
 | **Front-End** | **Back-End** | **Data & IA** |
 | :---: | :---: | :---: |
